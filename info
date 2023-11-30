@@ -1,0 +1,10 @@
+https://groovy-lang.org/
+
+variables:
+def a=1
+def b=2
+def c="3.4"
+def d=" hello world"
+def e="1 +1"
+def f="2 +3.5"
+println = "hello world"
